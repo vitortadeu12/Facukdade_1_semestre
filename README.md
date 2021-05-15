@@ -1,2 +1,2 @@
-# Facukdade_1_semestre
+# Faculdade_1_semestre
 Exercícios do 1 semestre 
